@@ -1,0 +1,7 @@
+<meta>
+	<script src="avg.lua" valami="10"> </script>
+	<script src="avg2.lua"> </script>
+	<script src="nonexist.lua" > </script>
+	<script stc="aaa.lua" > </script>
+	<nscript> </nscript>
+</meta>
